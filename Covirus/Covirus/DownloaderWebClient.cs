@@ -3,7 +3,7 @@ using System.Net;
 
 namespace Covirus
 {
-    public class Downloader
+    public class DownloaderWebClient
     {
         public void DownloadFile(string address, string file)
         {

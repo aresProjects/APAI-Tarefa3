@@ -2,62 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f73b4ce-8761-4cc5-8b02-f0176f319d32" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Covirus/.idea/contentModel.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Covirus/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Covirus/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Covirus/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Covirus/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Covirus/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Covirus/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Covirus/riderModule.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Covirus Runner/Covirus Runner.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Covirus Runner/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Covirus Runner/bin/Debug/netcoreapp3.1/Covirus Runner.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Covirus Runner/bin/Debug/netcoreapp3.1/Covirus Runner.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Covirus Runner/bin/Debug/netcoreapp3.1/Covirus Runner.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Covirus Runner/bin/Debug/netcoreapp3.1/Covirus Runner.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Covirus Runner/bin/Debug/netcoreapp3.1/Covirus Runner.runtimeconfig.dev.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Covirus Runner/bin/Debug/netcoreapp3.1/Covirus Runner.runtimeconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Covirus Runner/bin/Debug/netcoreapp3.1/Covirus.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Covirus Runner/bin/Debug/netcoreapp3.1/Covirus.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Covirus Runner/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Covirus Runner/bin/Debug/netcoreapp3.1/timeseries.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Covirus Runner/obj/Covirus Runner.csproj.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Covirus Runner/obj/Covirus Runner.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Covirus Runner/obj/Covirus Runner.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Covirus Runner/obj/Covirus Runner.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Covirus Runner/obj/Debug/netcoreapp3.1/Covirus Runner.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Covirus Runner/obj/Debug/netcoreapp3.1/Covirus Runner.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Covirus Runner/obj/Debug/netcoreapp3.1/Covirus Runner.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Covirus Runner/obj/Debug/netcoreapp3.1/Covirus Runner.csproj.CopyComplete" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Covirus Runner/obj/Debug/netcoreapp3.1/Covirus Runner.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Covirus Runner/obj/Debug/netcoreapp3.1/Covirus Runner.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Covirus Runner/obj/Debug/netcoreapp3.1/Covirus Runner.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Covirus Runner/obj/Debug/netcoreapp3.1/Covirus Runner.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Covirus Runner/obj/Debug/netcoreapp3.1/Covirus Runner.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Covirus Runner/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Covirus Runner/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Covirus.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Covirus/Countries.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Covirus/Covirus.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Covirus/Downloader.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Covirus/JsonParser.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Covirus/bin/Debug/netcoreapp3.1/Covirus.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Covirus/bin/Debug/netcoreapp3.1/Covirus.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Covirus/bin/Debug/netcoreapp3.1/Covirus.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Covirus/obj/Covirus.csproj.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Covirus/obj/Covirus.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Covirus/obj/Covirus.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Covirus/obj/Covirus.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Covirus/obj/Debug/netcoreapp3.1/Covirus.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Covirus/obj/Debug/netcoreapp3.1/Covirus.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Covirus/obj/Debug/netcoreapp3.1/Covirus.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Covirus/obj/Debug/netcoreapp3.1/Covirus.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Covirus/obj/Debug/netcoreapp3.1/Covirus.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Covirus/obj/Debug/netcoreapp3.1/Covirus.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Covirus/obj/Debug/netcoreapp3.1/Covirus.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Covirus/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Covirus/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Covirus Forms/Covirus Forms.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Covirus Forms/Form1.Designer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Covirus Forms/Form1.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Covirus Forms/Form1.resx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Covirus Forms/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Covirus Forms/bin/Debug/netcoreapp3.1/Covirus Forms.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Covirus Forms/bin/Debug/netcoreapp3.1/Covirus Forms.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Covirus Forms/bin/Debug/netcoreapp3.1/Covirus Forms.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Covirus Forms/bin/Debug/netcoreapp3.1/Covirus Forms.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Covirus Forms/bin/Debug/netcoreapp3.1/Covirus Forms.runtimeconfig.dev.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Covirus Forms/bin/Debug/netcoreapp3.1/Covirus Forms.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Covirus Forms/obj/Debug/netcoreapp3.1/Covirus Forms.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Covirus Forms/obj/Debug/netcoreapp3.1/Covirus Forms.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Covirus Forms/obj/Debug/netcoreapp3.1/Covirus Forms.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Covirus Forms/obj/Debug/netcoreapp3.1/Covirus Forms.pdb" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Downloader/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Downloader/.idea/.idea.Downloader/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Downloader/.idea/.idea.Downloader/.idea/encodings.xml" afterDir="false" />
@@ -90,6 +49,15 @@
       <change afterPath="$PROJECT_DIR$/../JSON Parser/.idea/.idea.JSON Parser/.idea/encodings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../JSON Parser/.idea/.idea.JSON Parser/.idea/indexLayout.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../JSON Parser/.idea/.idea.JSON Parser/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Covirus/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Covirus/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Covirus/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Covirus/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Covirus Runner/bin/Debug/netcoreapp3.1/Covirus.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Covirus Runner/bin/Debug/netcoreapp3.1/Covirus.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Covirus Runner/bin/Debug/netcoreapp3.1/Covirus.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Covirus Runner/bin/Debug/netcoreapp3.1/Covirus.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Covirus.sln" beforeDir="false" afterPath="$PROJECT_DIR$/Covirus.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Covirus/bin/Debug/netcoreapp3.1/Covirus.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Covirus/bin/Debug/netcoreapp3.1/Covirus.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Covirus/bin/Debug/netcoreapp3.1/Covirus.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Covirus/bin/Debug/netcoreapp3.1/Covirus.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Covirus/obj/Debug/netcoreapp3.1/Covirus.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Covirus/obj/Debug/netcoreapp3.1/Covirus.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Covirus/obj/Debug/netcoreapp3.1/Covirus.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Covirus/obj/Debug/netcoreapp3.1/Covirus.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JSON Parser/JSON Parser/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../JSON Parser/JSON Parser/Program.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JSON Parser/JSON Parser/bin/Debug/netcoreapp3.1/JSON Parser.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../JSON Parser/JSON Parser/bin/Debug/netcoreapp3.1/JSON Parser.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JSON Parser/JSON Parser/bin/Debug/netcoreapp3.1/JSON Parser.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../JSON Parser/JSON Parser/bin/Debug/netcoreapp3.1/JSON Parser.pdb" afterDir="false" />
@@ -103,14 +71,21 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Covirus/Downloader.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Covirus/Countries.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Covirus Forms/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Covirus Runner/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Covirus/JsonParser.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Covirus Forms/Form1.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -119,6 +94,7 @@
         <option value="$PROJECT_DIR$/Covirus Runner/Program.cs" />
         <option value="$PROJECT_DIR$/Covirus/Countries.cs" />
         <option value="$PROJECT_DIR$/Covirus/Downloader.cs" />
+        <option value="$PROJECT_DIR$/Covirus Forms/Form1.cs" />
       </list>
     </option>
   </component>
@@ -169,8 +145,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585414259040</updated>
-      <workItem from="1585414260518" duration="2769000" />
+      <workItem from="1585414260518" duration="4842000" />
     </task>
+    <task id="LOCAL-00001" summary="Covirus v0.1 (Added &quot;Countries()&quot;, &quot;Downloader()&quot;, &quot;JsonParser()&quot; and &quot;Covirus Runner&quot;)">
+      <created>1585417303382</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1585417303382</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -191,27 +175,41 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Covirus v0.1 (Added &quot;Countries()&quot;, &quot;Downloader()&quot;, &quot;JsonParser()&quot; and &quot;Covirus Runner&quot;)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Covirus v0.1 (Added &quot;Countries()&quot;, &quot;Downloader()&quot;, &quot;JsonParser()&quot; and &quot;Covirus Runner&quot;)" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1428" height="224" key="GridCell.Tab.0.bottom" timestamp="1585416427208">
+    <state width="1428" height="224" key="GridCell.Tab.0.bottom" timestamp="1585419495538">
       <screen x="66" y="0" width="1470" height="864" />
     </state>
-    <state width="1428" height="224" key="GridCell.Tab.0.bottom/66.0.1470.864@66.0.1470.864" timestamp="1585416427208" />
-    <state width="1428" height="224" key="GridCell.Tab.0.center" timestamp="1585416427208">
+    <state width="1428" height="224" key="GridCell.Tab.0.bottom/66.0.1470.864@66.0.1470.864" timestamp="1585419495538" />
+    <state width="1428" height="224" key="GridCell.Tab.0.center" timestamp="1585419495538">
       <screen x="66" y="0" width="1470" height="864" />
     </state>
-    <state width="1428" height="224" key="GridCell.Tab.0.center/66.0.1470.864@66.0.1470.864" timestamp="1585416427208" />
-    <state width="1428" height="224" key="GridCell.Tab.0.left" timestamp="1585416427208">
+    <state width="1428" height="224" key="GridCell.Tab.0.center/66.0.1470.864@66.0.1470.864" timestamp="1585419495538" />
+    <state width="1428" height="224" key="GridCell.Tab.0.left" timestamp="1585419495538">
       <screen x="66" y="0" width="1470" height="864" />
     </state>
-    <state width="1428" height="224" key="GridCell.Tab.0.left/66.0.1470.864@66.0.1470.864" timestamp="1585416427208" />
-    <state width="1428" height="224" key="GridCell.Tab.0.right" timestamp="1585416427208">
+    <state width="1428" height="224" key="GridCell.Tab.0.left/66.0.1470.864@66.0.1470.864" timestamp="1585419495538" />
+    <state width="1428" height="224" key="GridCell.Tab.0.right" timestamp="1585419495538">
       <screen x="66" y="0" width="1470" height="864" />
     </state>
-    <state width="1428" height="224" key="GridCell.Tab.0.right/66.0.1470.864@66.0.1470.864" timestamp="1585416427208" />
-    <state x="393" y="164" key="Rider.ProjectTemplateDialog.Size" timestamp="1585414942793">
+    <state width="1428" height="224" key="GridCell.Tab.0.right/66.0.1470.864@66.0.1470.864" timestamp="1585419495538" />
+    <state x="403" y="98" key="Registry" timestamp="1585418888743">
       <screen x="66" y="0" width="1470" height="864" />
     </state>
-    <state x="393" y="164" key="Rider.ProjectTemplateDialog.Size/66.0.1470.864@66.0.1470.864" timestamp="1585414942793" />
+    <state x="403" y="98" key="Registry/66.0.1470.864@66.0.1470.864" timestamp="1585418888743" />
+    <state x="393" y="164" key="Rider.ProjectTemplateDialog.Size" timestamp="1585418139257">
+      <screen x="66" y="0" width="1470" height="864" />
+    </state>
+    <state x="393" y="164" key="Rider.ProjectTemplateDialog.Size/66.0.1470.864@66.0.1470.864" timestamp="1585418139257" />
+    <state x="393" y="165" key="Vcs.Push.Dialog.v2" timestamp="1585417305904">
+      <screen x="66" y="0" width="1470" height="864" />
+    </state>
+    <state x="393" y="165" key="Vcs.Push.Dialog.v2/66.0.1470.864@66.0.1470.864" timestamp="1585417305904" />
+    <state x="463" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1585418991823">
+      <screen x="66" y="0" width="1470" height="864" />
+    </state>
+    <state x="463" y="181" width="672" height="678" key="search.everywhere.popup/66.0.1470.864@66.0.1470.864" timestamp="1585418991823" />
   </component>
 </project>

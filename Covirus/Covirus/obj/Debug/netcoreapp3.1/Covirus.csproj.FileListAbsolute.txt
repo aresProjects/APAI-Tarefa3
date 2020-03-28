@@ -1,0 +1,8 @@
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Jetbrains Rider\APAI\2. Trabalhos\APAI-Tarefa3\Covirus\Covirus\bin\Debug\netcoreapp3.1\Covirus.deps.json
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Jetbrains Rider\APAI\2. Trabalhos\APAI-Tarefa3\Covirus\Covirus\bin\Debug\netcoreapp3.1\Covirus.dll
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Jetbrains Rider\APAI\2. Trabalhos\APAI-Tarefa3\Covirus\Covirus\bin\Debug\netcoreapp3.1\Covirus.pdb
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Jetbrains Rider\APAI\2. Trabalhos\APAI-Tarefa3\Covirus\Covirus\obj\Debug\netcoreapp3.1\Covirus.csprojAssemblyReference.cache
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Jetbrains Rider\APAI\2. Trabalhos\APAI-Tarefa3\Covirus\Covirus\obj\Debug\netcoreapp3.1\Covirus.AssemblyInfoInputs.cache
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Jetbrains Rider\APAI\2. Trabalhos\APAI-Tarefa3\Covirus\Covirus\obj\Debug\netcoreapp3.1\Covirus.AssemblyInfo.cs
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Jetbrains Rider\APAI\2. Trabalhos\APAI-Tarefa3\Covirus\Covirus\obj\Debug\netcoreapp3.1\Covirus.dll
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Jetbrains Rider\APAI\2. Trabalhos\APAI-Tarefa3\Covirus\Covirus\obj\Debug\netcoreapp3.1\Covirus.pdb

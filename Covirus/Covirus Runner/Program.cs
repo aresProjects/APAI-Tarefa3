@@ -8,11 +8,11 @@ namespace Covirus_Runner
     {
         static void Main(string[] args)
         {
-            DownloaderWebClient downloaderWebClient = new DownloaderWebClient();
+            DownloaderWebClient client = new DownloaderWebClient();
             JsonParser jParser = new JsonParser();
 
-            downloaderWebClient.DownloadFile("https://pomber.github.io/covid19/timeseries.json", "timeseries.json");
-            jParser.Parser("timeseries.json");
+            client.DownloadFile("https://pomber.github.io/covid19/timeseries.json", "covid19.json");
+            jParser.Parser("covid19.json");
         }
     }
 }

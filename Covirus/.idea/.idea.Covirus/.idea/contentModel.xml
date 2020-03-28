@@ -8,7 +8,8 @@
         <e p="bin" t="ExcludeRecursive" />
         <e p="Countries.cs" t="Include" />
         <e p="Covirus.csproj" t="IncludeRecursive" />
-        <e p="Downloader.cs" t="Include" />
+        <e p="DownloaderHttpClient.cs" t="Include" />
+        <e p="DownloaderWebClient.cs" t="Include" />
         <e p="JsonParser.cs" t="Include" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
@@ -17,21 +18,6 @@
             </e>
           </e>
         </e>
-      </e>
-      <e p="Covirus Forms" t="IncludeRecursive">
-        <e p="bin" t="ExcludeRecursive" />
-        <e p="Covirus Forms.csproj" t="IncludeRecursive" />
-        <e p="Form1.cs" t="Include" />
-        <e p="Form1.Designer.cs" t="Include" />
-        <e p="Form1.resx" t="Include" />
-        <e p="obj" t="ExcludeRecursive">
-          <e p="Debug" t="Include">
-            <e p="netcoreapp3.1" t="Include">
-              <e p="Covirus Forms.AssemblyInfo.cs" t="Include" />
-            </e>
-          </e>
-        </e>
-        <e p="Program.cs" t="Include" />
       </e>
       <e p="Covirus Runner" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />

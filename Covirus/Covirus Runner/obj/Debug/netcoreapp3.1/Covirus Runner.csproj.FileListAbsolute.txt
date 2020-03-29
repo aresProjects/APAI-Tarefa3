@@ -13,3 +13,6 @@ C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Jetbrains Rider\APAI\2
 C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Jetbrains Rider\APAI\2. Trabalhos\APAI-Tarefa3\Covirus\Covirus Runner\obj\Debug\netcoreapp3.1\Covirus Runner.csproj.CopyComplete
 C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Jetbrains Rider\APAI\2. Trabalhos\APAI-Tarefa3\Covirus\Covirus Runner\obj\Debug\netcoreapp3.1\Covirus Runner.dll
 C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Jetbrains Rider\APAI\2. Trabalhos\APAI-Tarefa3\Covirus\Covirus Runner\obj\Debug\netcoreapp3.1\Covirus Runner.pdb
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Jetbrains Rider\APAI\2. Trabalhos\APAI-Tarefa3\Covirus\Covirus Runner\bin\Debug\netcoreapp3.1\LiveCharts.dll
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Jetbrains Rider\APAI\2. Trabalhos\APAI-Tarefa3\Covirus\Covirus Runner\bin\Debug\netcoreapp3.1\LiveCharts.WinForms.dll
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Jetbrains Rider\APAI\2. Trabalhos\APAI-Tarefa3\Covirus\Covirus Runner\bin\Debug\netcoreapp3.1\LiveCharts.Wpf.dll
